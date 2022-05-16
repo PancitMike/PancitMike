@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PancitMike
 - 👀 I’m interested in Food
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# with wonderful friends
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, you cant.. yet
 
